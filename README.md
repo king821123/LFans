@@ -1,4 +1,4 @@
 LFans
 =====
 
-fans of linux
+fans of linux.
